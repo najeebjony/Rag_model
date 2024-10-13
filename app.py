@@ -26,8 +26,8 @@ namespace = "wondervector5000"
 index_name = "ragindex01"
 chunk_size = 1000
 
-USERNAME = "User"
-PASSWORD = "Password123"
+USERNAME = "Najeeb"
+PASSWORD = "Najeeb123"
 
 # Set up embeddings and vector store
 embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
